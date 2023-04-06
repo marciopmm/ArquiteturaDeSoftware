@@ -1,0 +1,8 @@
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\bin\Debug\WatinExample02.dll
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\bin\Debug\WatinExample02.pdb
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\bin\Debug\WatiN.Core.dll
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\bin\Debug\WatiN.Core.xml
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\obj\Debug\WatinExample02.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\obj\Debug\WatinExample02.dll
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\obj\Debug\WatinExample02.pdb
+C:\Projetos\Exemplos\WatinExample02\WatinExample02\bin\Debug\Interop.SHDocVw.dll

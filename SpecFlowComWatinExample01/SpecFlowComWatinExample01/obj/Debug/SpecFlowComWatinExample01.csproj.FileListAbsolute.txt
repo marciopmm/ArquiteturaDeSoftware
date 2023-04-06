@@ -1,0 +1,11 @@
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\obj\Debug\SpecFlowComWatinExample01.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\SpecFlowComWatinExample01.dll.config
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\SpecFlowComWatinExample01.dll
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\SpecFlowComWatinExample01.pdb
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\WatiN.Core.dll
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\WatiN.Core.xml
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\obj\Debug\SpecFlowComWatinExample01.dll
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\obj\Debug\SpecFlowComWatinExample01.pdb
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\Interop.SHDocVw.dll
+C:\Projetos\Exemplos\SpecFlowComWatinExample01\SpecFlowComWatinExample01\bin\Debug\Microsoft.mshtml.dll

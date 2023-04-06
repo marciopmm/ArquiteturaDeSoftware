@@ -1,0 +1,6 @@
+C:\Projetos\Exemplos\FactoryExample01\FactoryExample01\bin\Debug\FactoryExample01.exe.config
+C:\Projetos\Exemplos\FactoryExample01\FactoryExample01\obj\Debug\FactoryExample01.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\FactoryExample01\FactoryExample01\bin\Debug\FactoryExample01.exe
+C:\Projetos\Exemplos\FactoryExample01\FactoryExample01\bin\Debug\FactoryExample01.pdb
+C:\Projetos\Exemplos\FactoryExample01\FactoryExample01\obj\Debug\FactoryExample01.exe
+C:\Projetos\Exemplos\FactoryExample01\FactoryExample01\obj\Debug\FactoryExample01.pdb

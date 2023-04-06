@@ -1,0 +1,10 @@
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\obj\Debug\WatinExample01.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\WatinExample01.dll.config
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\WatinExample01.dll
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\WatinExample01.pdb
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\obj\Debug\WatinExample01.dll
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\obj\Debug\WatinExample01.pdb
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\WatiN.Core.dll
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\WatiN.Core.xml
+C:\Projetos\Exemplos\WatinExample01\WatinExample01\bin\Debug\Interop.SHDocVw.dll

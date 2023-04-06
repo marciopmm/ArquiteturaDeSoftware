@@ -1,0 +1,8 @@
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\bin\Debug\SpecFlowExample02.exe.config
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\bin\Debug\SpecFlowExample02.exe
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\bin\Debug\SpecFlowExample02.pdb
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\bin\Debug\Example.dll
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\bin\Debug\Example.pdb
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\obj\Debug\SpecFlowExample02.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\obj\Debug\SpecFlowExample02.exe
+C:\Projetos\Exemplos\SpecFlowExample02\SpecFlowExample02\obj\Debug\SpecFlowExample02.pdb

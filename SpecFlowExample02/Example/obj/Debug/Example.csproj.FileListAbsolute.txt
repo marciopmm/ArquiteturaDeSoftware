@@ -1,0 +1,5 @@
+C:\Projetos\Exemplos\SpecFlowExample02\Example\bin\Debug\Example.dll
+C:\Projetos\Exemplos\SpecFlowExample02\Example\bin\Debug\Example.pdb
+C:\Projetos\Exemplos\SpecFlowExample02\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\SpecFlowExample02\Example\obj\Debug\Example.dll
+C:\Projetos\Exemplos\SpecFlowExample02\Example\obj\Debug\Example.pdb

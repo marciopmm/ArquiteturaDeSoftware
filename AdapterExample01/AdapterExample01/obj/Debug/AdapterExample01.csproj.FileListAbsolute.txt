@@ -1,0 +1,6 @@
+C:\Projetos\Exemplos\AdapterExample01\AdapterExample01\bin\Debug\AdapterExample01.exe.config
+C:\Projetos\Exemplos\AdapterExample01\AdapterExample01\bin\Debug\AdapterExample01.exe
+C:\Projetos\Exemplos\AdapterExample01\AdapterExample01\bin\Debug\AdapterExample01.pdb
+C:\Projetos\Exemplos\AdapterExample01\AdapterExample01\obj\Debug\AdapterExample01.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\AdapterExample01\AdapterExample01\obj\Debug\AdapterExample01.exe
+C:\Projetos\Exemplos\AdapterExample01\AdapterExample01\obj\Debug\AdapterExample01.pdb

@@ -1,0 +1,10 @@
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\UnityExample01.exe.config
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\UnityExample01.exe
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\UnityExample01.pdb
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\obj\Debug\UnityExample01.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\obj\Debug\UnityExample01.exe
+C:\Projetos\Exemplos\UnityExample01\UnityExample01\obj\Debug\UnityExample01.pdb

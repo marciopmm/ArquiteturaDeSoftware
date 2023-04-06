@@ -1,0 +1,6 @@
+C:\Projetos\Exemplos\FacadeExample01\FacadeExample01\bin\Debug\FacadeExample01.exe.config
+C:\Projetos\Exemplos\FacadeExample01\FacadeExample01\bin\Debug\FacadeExample01.exe
+C:\Projetos\Exemplos\FacadeExample01\FacadeExample01\bin\Debug\FacadeExample01.pdb
+C:\Projetos\Exemplos\FacadeExample01\FacadeExample01\obj\Debug\FacadeExample01.csprojResolveAssemblyReference.cache
+C:\Projetos\Exemplos\FacadeExample01\FacadeExample01\obj\Debug\FacadeExample01.exe
+C:\Projetos\Exemplos\FacadeExample01\FacadeExample01\obj\Debug\FacadeExample01.pdb
